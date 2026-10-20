@@ -1,0 +1,4 @@
+interface:
+  display_name: "理解优先 · Understanding First"
+  short_description: "用清晰文字、关系图、交互网页与讲解视频，帮助读者理解并检查复杂概念。"
+  default_prompt: "请使用 $understanding-first，先找出这段材料最难理解的机制，再用适合我的表达形式讲清楚，并标明简化与不确定之处。"

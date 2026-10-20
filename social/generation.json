@@ -1,0 +1,35 @@
+{
+  "created": "2026-10-20",
+  "images": [
+    {
+      "png": "01-clear-writing.png",
+      "localJpeg": "01_先把话写清楚.jpg",
+      "generator": "Codex built-in image_gen",
+      "sourceFile": "exec-44c6952f-bccb-474a-bb92-758fbfacfe6e.png"
+    },
+    {
+      "png": "02-show-relationships.png",
+      "localJpeg": "02_让复杂关系一眼可见.jpg",
+      "generator": "Codex built-in image_gen",
+      "sourceFile": "exec-2a73224d-34e6-412c-b9b7-35cd1e412a46.png"
+    },
+    {
+      "png": "03-interactive-html.png",
+      "localJpeg": "03_让解释可以亲手操作.jpg",
+      "generator": "Codex built-in image_gen",
+      "sourceFile": "exec-d068a51e-bb88-4e2a-9b75-c681d7c6c4b1.png"
+    },
+    {
+      "png": "04-explainer-video.png",
+      "localJpeg": "04_让机制动起来.jpg",
+      "generator": "Codex built-in image_gen",
+      "sourceFile": "exec-ae65ef6b-6085-43a5-bc17-da309fb54504.png"
+    },
+    {
+      "png": "05-human-understanding.png",
+      "localJpeg": "05_把精力转向监督与理解.jpg",
+      "generator": "Codex built-in image_gen",
+      "sourceFile": "exec-9431ec6b-bc7c-4bcc-a3b0-e1c4b251ad13.png"
+    }
+  ]
+}
